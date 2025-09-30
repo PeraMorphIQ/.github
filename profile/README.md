@@ -1,1 +1,1 @@
-### Welcome to ESCAL PeraMorphIQ (Neuromorphic Computing) GitHub organization !
+### Welcome to ESCAL PeraMorphIQ (Neuromorphic Computing) GitHub organisation!
